@@ -6,6 +6,8 @@
 </p>
 <p align="center">Official <strong><a href="https://github.com/WolvesLeague">Wolves League</a></strong> Gnome Terminal theme.</p>
 
+---
+
 A beautiful theme for those who like the color red. Red is used as accent color paired with grey and black backgrounds, so it's not tiring to look at.
 
 ## Colors and variants
